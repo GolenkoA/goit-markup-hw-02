@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-module 1
+module 2
