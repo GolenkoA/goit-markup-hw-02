@@ -143,7 +143,10 @@ body {
   letter-spacing: 0.03em;
 }
 
-/* our team paragraf */
+/* our team */
+.team {
+  background-color: var(--background-team);
+}
 
 .team-name {
   font-weight: 500;
