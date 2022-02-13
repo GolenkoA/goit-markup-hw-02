@@ -79,7 +79,7 @@ body {
 }
 
 .nav-link.current {
-  color: var(--background-hover-batton);
+  color: var(--logo-blue--hover-color);
 }
 
 /* main-index */
